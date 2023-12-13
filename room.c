@@ -1,4 +1,3 @@
-//Assignment 4 room.c by Prayanshu Narayan S#101144277
 #include "defs.h"
 /* 
   Function: Initalize a room
