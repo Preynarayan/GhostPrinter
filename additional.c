@@ -1,4 +1,3 @@
-//Assignment 4 additional.c by Prayanshu Narayan S#101144277
 #include "defs.h"
 
 void printGhostType(GhostEnumType ghostType){
