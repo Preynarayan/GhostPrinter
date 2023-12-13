@@ -1,4 +1,3 @@
-//Assignment 4 defs.h by Prayanshu Narayan S#101144277
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
